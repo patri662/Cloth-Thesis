@@ -1,12 +1,30 @@
+# Python
 __pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
 **/images/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+# Polyscope / GUI
 .polyscope.ini
+imgui.ini
 frames/
 python_code/movies/imgui.ini
 python_code/movies/output.mp4
 python_code/movies/imgui.ini
 python_code/movies/imgui.ini
+
+# Media files (all locations)
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Frames and movies folders (anywhere)
+**/frames/
+**/movies/
+**/images/
